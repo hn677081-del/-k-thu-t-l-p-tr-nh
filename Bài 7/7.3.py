@@ -1,0 +1,7 @@
+print("Nguyễn Văn Hùng")
+print("245732021610131")
+input_file = open("D:/làm việc/Bài Thực hành KTLT/2.2.py", encoding="utf-8")
+doc_file = input_file.read()
+input_file.close()
+print ("D:\làm việc\Bài Thực hành KTLT\bài 1.fprg")
+print(doc_file)
