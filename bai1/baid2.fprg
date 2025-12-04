@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.6">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="pv"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-12-02 08:45:37 SA"/>
+        <attribute name="created" value="cHY7IEhVTkc7IDIwMjUtMTItMDI7IDA4OjM3OjU2IFNBOyAxOTEw"/>
+        <attribute name="edited" value="cHY7IEhVTkc7IDIwMjUtMTItMDI7IDA4OjQ1OjM3IFNBOyAxOTA4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="dientichhinhtron" type="Real" array="False" size=""/>
+            <declare name="R" type="Integer" array="False" size=""/>
+            <output expression="&quot;nh&#7853;p b&#225;n k&#237;nh c&#7911;a &#273;&#432;&#7901;ng tr&#242;n&quot;"/>
+            <input variable="R"/>
+            <assign variable="dientichhinhtron" expression="3.14*R*2"/>
+            <output expression="&quot;dientichhinhtron b&#7857;ng&quot;&amp; dientichhinhtron"/>
+            <output expression="&quot;sinh vi&#234;n, Nguy&#7877;n V&#259;n H&#249;ng&quot;"/>
+            <output expression="&quot;245752021610031&quot;"/>
+        </body>
+    </function>
+</flowgorithm>
